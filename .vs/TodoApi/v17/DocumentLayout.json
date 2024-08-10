@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|c:\\users\\renato\\documents\\fatec\\2osemestre\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|c:\\users\\renato\\documents\\fatec\\2osemestre\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|c:\\users\\renato\\documents\\fatec\\2osemestre\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|c:\\users\\renato\\documents\\fatec\\2osemestre\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|c:\\users\\renato\\documents\\fatec\\2osemestre\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CD1911A-5BD5-4E97-951A-EDF1F5B2A08A}|TodoApi.csproj|c:\\users\\renato\\documents\\fatec\\2osemestre\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:05:17.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:49:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "Models\\TodoContext.cs",
@@ -45,27 +79,26 @@
               "RelativeDocumentMoniker": "Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\Models\\TodoItem.cs",
               "RelativeToolTip": "Models\\TodoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T15:19:32.745Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TodoApi",
+              "DocumentIndex": 4,
+              "Title": "TodoApi.csproj",
               "DocumentMoniker": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\TodoApi.csproj",
               "RelativeDocumentMoniker": "TodoApi.csproj",
               "ToolTip": "C:\\Users\\Renato\\Documents\\FATEC\\2oSemestre\\TodoApi\\TodoApi.csproj",
               "RelativeToolTip": "TodoApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-10T15:18:53.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-08-10T15:18:53.153Z"
             }
           ]
         }
